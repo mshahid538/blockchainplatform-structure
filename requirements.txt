@@ -1,0 +1,38 @@
+# FastAPI and web server
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Database (if needed)
+# sqlalchemy>=2.0.0
+# alembic>=1.12.0
+
+# Blockchain integration
+# web3>=6.11.0
+# eth-account>=0.9.0
+
+# AI/ML (as needed)
+# torch>=2.1.0
+# transformers>=4.35.0
+# numpy>=1.24.0
+# pandas>=2.1.0
+
+# HTTP client
+httpx>=0.25.0
+requests>=2.31.0
+
+# Utilities
+python-dotenv>=1.0.0
+python-multipart>=0.0.6
+
+# Testing (development)
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+httpx>=0.25.0
+
+# Code quality
+black>=23.11.0
+flake8>=6.1.0
+mypy>=1.7.0
+
